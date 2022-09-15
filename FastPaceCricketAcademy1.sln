@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastPaceCricketAcademy1", "FastPaceCricketAcademy1\FastPaceCricketAcademy1.csproj", "{DC852522-752A-4E29-9156-2311929E4239}"
+	ProjectSection(ProjectDependencies) = postProject
+		{07F37283-2689-4680-8D23-9DAD96D5ACA9} = {07F37283-2689-4680-8D23-9DAD96D5ACA9}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssessmentProj", "AssessmentProj\AssessmentProj.csproj", "{07F37283-2689-4680-8D23-9DAD96D5ACA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC852522-752A-4E29-9156-2311929E4239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC852522-752A-4E29-9156-2311929E4239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC852522-752A-4E29-9156-2311929E4239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC852522-752A-4E29-9156-2311929E4239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F37283-2689-4680-8D23-9DAD96D5ACA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F37283-2689-4680-8D23-9DAD96D5ACA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F37283-2689-4680-8D23-9DAD96D5ACA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F37283-2689-4680-8D23-9DAD96D5ACA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03D5FD20-67B9-4775-A474-743C0BAA0244}
+	EndGlobalSection
+EndGlobal
